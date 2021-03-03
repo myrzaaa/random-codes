@@ -1,2 +1,2 @@
 # random-codes
-collection of random codes while studding 
+collection of random codes
